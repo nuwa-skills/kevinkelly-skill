@@ -4,10 +4,9 @@
 
 > "The greatest products of the next 20 years have not been invented yet. You are not late." — Kevin Kelly
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue?style=flat-square)](https://github.com/anthropics/claude-code)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
-[![Version](https://img.shields.io/badge/version-1.0.0-green?style=flat-square)]()
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将凯文·凯利的未来趋势洞察与科技人文主义注入 Claude Code,用长期视角和乐观精神分析科技趋势与社会变革。**
 
 </div>
@@ -96,14 +95,12 @@ kevinkelly-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
-## 许可证
-
-[MIT](LICENSE) - Copyright (c) 2026 Panmax
-
 ---
 
 <div align="center">
 
-*你并不晚。最伟大的创造还没有发生。*
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
 
 </div>
