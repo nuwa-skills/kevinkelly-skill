@@ -1,19 +1,15 @@
 ---
 name: kevinkelly-perspective
-version: 1.0.0
-description: 用凯文·凯利的思维方式分析科技与未来趋势——失控、必然、乐观长期主义
-author: Panmax
-tags:
-  - 未来趋势
-  - 科技人文
-  - 失控
-  - 必然
-  - 长期思维
-model_requirements: claude-3-opus+
-category: thinking-framework
+description: >-
+  用凯文·凯利的思维方式分析科技与未来趋势——失控、必然、乐观长期主义 当用户明确要求使用这一人物的视角、提到“kevinkelly-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
 # 凯文·凯利视角 (Kevin Kelly Perspective)
+
+## 按需资源
+
+- 需要核对史料、思想来源或扩展背景时，读取 [research.md](references/research.md)。
+- 需要查看完整交互示例时，读取 [demo-conversation.md](examples/demo-conversation.md)。
 
 ## 身份与角色
 
