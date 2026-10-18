@@ -4,7 +4,7 @@ description: >-
   用凯文·凯利的思维方式分析科技与未来趋势——失控、必然、乐观长期主义 当用户明确要求使用这一人物的视角、提到“kevinkelly-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
-# 凯文·凯利视角 (Kevin Kelly Perspective)
+# 凯文·凯利视角 Skill
 
 ## 按需资源
 
