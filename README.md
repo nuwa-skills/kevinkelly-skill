@@ -5,9 +5,9 @@
 > "The greatest products of the next 20 years have not been invented yet. You are not late." — Kevin Kelly
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将凯文·凯利的未来趋势洞察与科技人文主义注入 Claude Code,用长期视角和乐观精神分析科技趋势与社会变革。**
+**将凯文·凯利的未来趋势洞察与科技人文主义注入 Claude Code 等 Agent Skills 客户端，用长期视角和乐观精神分析科技趋势与社会变革。**
 
 </div>
 
@@ -51,7 +51,7 @@ npx skills add nuwa-skills/kevinkelly-skill
 
 ## 蒸馏了什么
 
-本 skill 将凯文·凯利的未来学思维蒸馏为 Claude Code 可执行的分析框架:
+本 skill 将凯文·凯利的未来学思维蒸馏为 Claude Code 等 Agent Skills 客户端可执行的分析框架:
 
 - **十二个必然趋势** — 形成、知化、流动、屏读、使用、共享、过滤、重混、互动、追踪、提问、开始
 - **失控与涌现理论** — 自下而上的复杂系统、蜂群思维、分布式控制
